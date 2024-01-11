@@ -17,7 +17,9 @@ export const help = async (args: string[]): Promise<string> => {
   return `
 hi, i'm anticode!
 
-I like rust, evm and svm.
+I like rust.
+Very much. 
+Rust is the best ^^
 
 to read my short essays - type 'musings'
 to see mu public github - type 'code'
